@@ -1,0 +1,7 @@
+#Requirements
+
+requests
+langchain
+faiss-cpu
+streamlit
+boto3
