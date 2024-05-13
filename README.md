@@ -13,3 +13,10 @@ pip install -r requirements.txt
 
 # Notes
 Please note that this vector store uses cpu for vectorization and is subject to slowness and high CPU utilization
+
+# Running the application
+1. Navigate to the respository
+2. Run the following command
+```javascript
+streamlit run stapp.py
+```
