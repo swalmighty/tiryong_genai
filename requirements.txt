@@ -5,3 +5,4 @@ langchain
 faiss-cpu
 streamlit
 boto3
+awscli
